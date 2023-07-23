@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tasneem011
 - 👀 I’m interested in Medical Informatics..
-- 🌱 I’m currently learning Software testing...
+- 🌱 I’m currently learning java..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .ahmedtasneem332@gmail.com..
 
