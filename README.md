@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Tasneem011
-- 👀 I’m interested in Medical Informatics..
-- 🌱 I’m currently learning java..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .ahmedtasneem332@gmail.com..
+# 👋 Hi, I’m @Tasneem011
 
-<!---
-Tasneem011/Tasneem011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about **Medical Informatics** and technology in healthcare.
+- 🎓 I’m a recent graduate from Faculty of Computers and Artificial Intelligence Benha University and a Junior Java Developer
+- 🌱 Currently, I’m enhancing my skills in Java and backend development.
+- 💬 I’m eager to collaborate on **innovative projects** in healthcare and software development.
+- 📫 How to reach me: [ahmedtasneem332@gmail.com](mailto:ahmedtasneem332@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tasneem-ahmed-337b18201/)
+- 🏆 Check out my coding skills on [HackerRank](https://www.hackerrank.com/profile/ahmedtasneem332)
+- 🏆 Check out my coding skills on [CodeForces](https://codeforces.com/profile/tasneem505)
+- 🏆 Check out my coding skills on [LetCode](https://leetcode.com/u/Tasneem011/)
+- 
