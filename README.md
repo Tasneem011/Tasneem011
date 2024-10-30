@@ -10,9 +10,10 @@
 - 🏆 Check out my coding skills on [CodeForces](https://codeforces.com/profile/tasneem505)
 - 🏆 Check out my coding skills on [LetCode](https://leetcode.com/u/Tasneem011/)
 - 📙 I read these books
-OCA Oracle Certified Associate Java SE 8 Programmer I
-OCP Oracle Certified Professional Java SE 8 Programmer II
-Spring start here
+  1- Introduction to java Programming and Data Structures
+  2-SQl for Data analysis
+  3-Spring start here
+  4- java concurrency And multiThreading 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/quota)
 ## 🚀 My Projects
 
