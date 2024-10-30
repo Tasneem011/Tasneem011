@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Tasneem011
+# 👋 Hi, I’m Tasnim 
 
 - 👀 I’m passionate about **Medical Informatics** and technology in healthcare.
 - 🎓 I’m a recent graduate from Faculty of Computers and Artificial Intelligence Benha University and a Junior Java Developer
