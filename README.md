@@ -14,12 +14,15 @@ OCA Oracle Certified Associate Java SE 8 Programmer I
 OCP Oracle Certified Professional Java SE 8 Programmer II
 Spring start here
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/quota)
-- ## 🚀 My Projects
+## 🚀 My Projects
 
-| Project Name         | Description                                       | Tech Stack                   | Repository Link                              |
-|----------------------|---------------------------------------------------|------------------------------|---------------------------------------------|
-|Task Management API   |         | Java, Spring Boot, MySQL     | [Repo](https://github.com/yourusername/yourproject1) |
-| **Weather Dashboard** | Mobile-friendly dashboard providing real-time weather updates | Spring Boot, HTML, CSS       | [Repo](https://github.com/yourusername/yourproject2) |
-| **Job Search Platform** | Web app to list and manage job applications     | React, Spring Boot, MongoDB  | [Repo](https://github.com/yourusername/yourproject3) |
-| **Event Management System** | System for organizing and managing events | Java, Spring Boot, RabbitMQ  | [Repo](https://github.com/yourusername/yourproject4) |
-| **Library Management System** | API for managing library resources and patrons | Java, Spring Boot, MySQL     | [Repo](https://github.com/yourusername/yourproject5) |
+| Project Name                        | Description                                                                                               | Tech Stack                                 | Repository Link                                                            |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------|
+| **Expense Tracker System**          | Web app for tracking personal and business expenses                                                       | Java, Spring Boot, MySQL                   | [Repo](https://github.com/Tasneem011/Expense_Tracker_System)              |
+| **Task Management API**             | REST API for managing tasks and to-do lists                                                               | Java, Spring Boot, MySQL                   | [Repo](https://github.com/Tasneem011/Task_Management_API)                 |
+| **Library System**                  | API for managing library resources, patrons, and book borrowings                                          | Java, Spring Boot, MySQL                   | [Repo](https://github.com/Tasneem011/Library-System)                      |
+| **Secured Shopping Cart**           | E-commerce platform with secured checkout and user authentication                                         | Java, Spring Boot, MySQL, Spring Security  | [Repo](https://github.com/Tasneem011/SecuredShoppingCart)                 |
+| **Diabetes Detection System**       | Detects diabetic retinopathy in retinal images to prevent vision impairment using advanced deep learning  | PHP, TensorFlow/Keras, Image Processing    | [Repo](https://github.com/Tasneem011/Graduation-Project)                  |
+| **E-commerce Shopping Cart**        | Console-based e-commerce system with product listings, cart, and checkout functionality                   | Java, OOP                                  | [Repo](https://github.com/Tasneem011/E-commerce-Shopping-Cart)            |
+
+
