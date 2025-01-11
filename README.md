@@ -20,10 +20,8 @@ Excited to work on innovative projects in healthcare and software development.
 Email: ahmedtasneem332@gmail.com
 LinkedIn: Tasneem Ahmed
 🏆 Coding Profiles:
-
-HackerRank
-CodeForces
-LeetCode
+   https://leetcode.com/u/Tasneem011/
+   
 📚 Books I’ve Read:
 
 Introduction to Java Programming and Data Structures
