@@ -1,20 +1,24 @@
-# 👋 Hi, I’m Tasnim 
+ 👋 Hi, I’m Tasnim
 
-- 👀 I’m passionate about **Medical Informatics** and technology in healthcare.
-- 🎓 I’m a recent graduate from Faculty of Computers and Artificial Intelligence Benha University and a Junior Java Developer
-- 🌱 Currently, I’m enhancing my skills in Java and backend development.
-- 💬 I’m eager to collaborate on **innovative projects** in healthcare and software development.
-- 📫 How to reach me: [ahmedtasneem332@gmail.com](mailto:ahmedtasneem332@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tasneem-ahmed-337b18201/)
-- 🏆 Check out my coding skills on [HackerRank](https://www.hackerrank.com/profile/ahmedtasneem332)
-- 🏆 Check out my coding skills on [CodeForces](https://codeforces.com/profile/tasneem505)
-- 🏆 Check out my coding skills on [LetCode](https://leetcode.com/u/Tasneem011/)
-- 📙 I read these books
+👀 I’m passionate about Medical Informatics and leveraging technology in healthcare.
+
+🎓 A recent graduate from the Faculty of Computers and Artificial Intelligence, Benha University, and currently working as a Software Engineer at Etisalat Egypt.
+
+🌱 I’m enhancing my skills in Java, backend development, and microservices architecture.
+
+💬 I’m eager to collaborate on innovative projects in healthcare and software development.
+
+📫 How to reach me: [ahmedtasneem332@gmail.com](mailto:ahmedtasneem332@gmail.com)
+ 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tasneem-ahmed-337b18201/)
+ 🏆 Check out my coding skills on [HackerRank](https://www.hackerrank.com/profile/ahmedtasneem332)
+🏆 Check out my coding skills on [CodeForces](https://codeforces.com/profile/tasneem505)
+🏆 Check out my coding skills on [LetCode](https://leetcode.com/u/Tasneem011/)
+📙 I read these books
   1- Introduction to java Programming and Data Structures
   2-SQl for Data analysis
   3-Spring start here
   4- java concurrency And multiThreading 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/quota)
+📄 Know about my experiences [Resume](https://drive.google.com/drive/quota)
 ## 🚀 My Projects
 
 | Project Name                        | Description                                                                                               | Tech Stack                                 | Repository Link                                                            |
