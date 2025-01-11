@@ -1,24 +1,37 @@
- 👋 Hi, I’m Tasnim
+👋 Hi, I’m Tasnim
 
-👀 I’m passionate about Medical Informatics and leveraging technology in healthcare.
+👀 Passionate About:
+Medical Informatics and leveraging technology in healthcare.
 
-🎓 A recent graduate from the Faculty of Computers and Artificial Intelligence, Benha University, and currently working as a Software Engineer at Etisalat Egypt.
+🎓 Education:
+A recent graduate from the Faculty of Computers and Artificial Intelligence, Benha University.
 
-🌱 I’m enhancing my skills in Java, backend development, and microservices architecture.
+💻 Current Role:
+Working as a Software Engineer at Etisalat Egypt.
 
-💬 I’m eager to collaborate on innovative projects in healthcare and software development.
+🌱 Skills and Learning:
+Enhancing my expertise in Java, backend development, and microservices architecture.
 
-📫 How to reach me: [ahmedtasneem332@gmail.com](mailto:ahmedtasneem332@gmail.com)
- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tasneem-ahmed-337b18201/)
- 🏆 Check out my coding skills on [HackerRank](https://www.hackerrank.com/profile/ahmedtasneem332)
-🏆 Check out my coding skills on [CodeForces](https://codeforces.com/profile/tasneem505)
-🏆 Check out my coding skills on [LetCode](https://leetcode.com/u/Tasneem011/)
-📙 I read these books
-  1- Introduction to java Programming and Data Structures
-  2-SQl for Data analysis
-  3-Spring start here
-  4- java concurrency And multiThreading 
-📄 Know about my experiences [Resume](https://drive.google.com/drive/quota)
+💬 Open to Collaboration:
+Excited to work on innovative projects in healthcare and software development.
+
+📫 Connect With Me:
+
+Email: ahmedtasneem332@gmail.com
+LinkedIn: Tasneem Ahmed
+🏆 Coding Profiles:
+
+HackerRank
+CodeForces
+LeetCode
+📚 Books I’ve Read:
+
+Introduction to Java Programming and Data Structures
+SQL for Data Analysis
+Spring Start Here
+Java Concurrency and Multithreading
+📄 Resume:
+Learn more about my experiences here.
 ## 🚀 My Projects
 
 | Project Name                        | Description                                                                                               | Tech Stack                                 | Repository Link                                                            |
